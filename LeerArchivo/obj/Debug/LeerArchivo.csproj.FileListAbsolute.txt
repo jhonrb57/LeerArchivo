@@ -1,0 +1,7 @@
+C:\Users\JHON\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.csproj.AssemblyReference.cache
+C:\Users\JHON\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.csproj.CoreCompileInputs.cache
+C:\Users\JHON\source\repos\LeerArchivo\LeerArchivo\bin\Debug\LeerArchivo.exe.config
+C:\Users\JHON\source\repos\LeerArchivo\LeerArchivo\bin\Debug\LeerArchivo.exe
+C:\Users\JHON\source\repos\LeerArchivo\LeerArchivo\bin\Debug\LeerArchivo.pdb
+C:\Users\JHON\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.exe
+C:\Users\JHON\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.pdb
